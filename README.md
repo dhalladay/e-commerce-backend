@@ -18,7 +18,7 @@
   
   You will need node.js for this project. [Download it here](https://nodejs.org/en/download/) if you don't have it already.
   
-  You will also likely need an API client such as [insomnia](https://insomnia.rest/) to interact with the application.
+  You will also likely need an API client such as [Insomnia](https://insomnia.rest/) to interact with the application.
 
   ### Prepare the project
   
@@ -42,7 +42,7 @@
   1. Type "npm start" into the terminal
   2. Navigate to the local host using your API client or through a browser
 
-  The following [video]() demonstrates the functionality of the application using Insomnia
+  The following [video](https://youtu.be/pcEWMltg7jQ) demonstrates the functionality of the application using Insomnia
 
   ## Languages
 
